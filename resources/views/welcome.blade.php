@@ -1,0 +1,13 @@
+@extends('layout.footer')
+@extends('layout.form')
+@extends('layout.blog')
+@extends('layout.testimonial')
+@extends('layout.team')
+@extends('layout.video_popup')
+@extends('layout.about')
+@extends('layout.portfolio')
+@extends('layout.service')
+@extends('layout.about_us')
+@extends('layout.banner')
+@extends('layout.header')
+
