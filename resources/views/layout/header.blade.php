@@ -52,32 +52,17 @@
                                     <li class="menu-item">
                                         <a href="/">Home</a>
                                     </li>
-                                    <li class="menu-item menu-item-has-children">
-                                        <a href="#">Pages</a>
-                                        <i class="fa fa-chevron-down pq-submenu-icon"></i>
-                                        <ul class="sub-menu">
-                                            <li class="menu-item">
-                                                <a href="about-us.html">About Us</a>
-                                            </li>
-                                            <li class="menu-item">
-                                                <a href="our-services.html">Our Services</a>
-                                            </li>
-                                            <li class="menu-item">
-                                                <a href="our-process.html">Our Process</a>
-                                            </li>
-                                            <li class="menu-item">
-                                                <a href="our-team.html">Our Team</a>
-                                            </li>
-                                            <li class="menu-item">
-                                                <a href="team-single.html">Team Singal</a>
-                                            </li>
-                                            <li class="menu-item">
-                                                <a href="faqs.html">Faqs</a>
-                                            </li>
-                                            <li class="menu-item">
-                                                <a href="404.html">404</a>
-                                            </li>
-                                        </ul>
+                                    <li class="menu-item">
+                                        <a href="/about-us">About Us</a>
+                                    </li>
+                                    <li class="menu-item">
+                                        <a href="/our-services">Our Services</a>
+                                    </li>
+                                    <li class="menu-item">
+                                        <a href="our-process">Our Process</a>
+                                    </li>
+                                    <li class="menu-item">
+                                        <a href="our-team">Our Team</a>
                                     </li>
                                     <!-- <li class="menu-item menu-item-has-children">
                                         <a href="#">Service</a>
